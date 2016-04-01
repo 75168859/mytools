@@ -1,5 +1,7 @@
 package cn.comm;
 
 public class Test {
-
+	public static void main(String[] args) {
+		
+	}
 }
